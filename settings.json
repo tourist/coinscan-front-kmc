@@ -8,6 +8,6 @@
   "scannerTxnLink": "https://polygonscan.com/tx/",
   "addresses": {
     "0xe90e0c5923656b401df295ee544f5cc9009b73b8": "Deployer",
-    "0x000000000000000000000000000000000000dead": "Burned (0x000...dead)",
+    "0x000000000000000000000000000000000000dead": "Burned (0x000...dead)"
   }
 }
